@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Mohammed A. Shehadeh
+description: Creating a personal website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
