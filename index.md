@@ -1,5 +1,5 @@
 ---
-title: Mohammed A. Shehadeh
+title: Mohammed Shehadeh
 description: Creating a personal website
 ---
 
