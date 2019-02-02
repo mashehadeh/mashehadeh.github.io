@@ -3,7 +3,7 @@ title: Mohammed Shehadeh
 description: Creating a personal website
 ---
 
-Here's a linkt to a picture 
+Here's my kids picture 
 
 - ![My Kids Picture](WebPicture.JPG)
 
