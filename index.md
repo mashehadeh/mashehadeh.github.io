@@ -13,7 +13,7 @@ Here's my 1st Graph assignment from BUAD 5112 (AA): Competing Through Business A
 
 Here's a link to my LinkedIn
 
-[MS Linked In](https://www.linkedin.com/in/mohammed-shehadeh-a2b50229/)
+- [MS Linked In](https://www.linkedin.com/in/mohammed-shehadeh-a2b50229/)
 
 
 Here's a link to a Repository 
