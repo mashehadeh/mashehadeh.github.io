@@ -5,7 +5,7 @@ description: Creating a personal website
 
 Here's a linkt to a picture 
 
-- ![My Kids Picture](/Pic MS/webpicture.JPG)
+- ![My Kids Picture](/Pic MS/WebPicture.JPG)
 
 
 Here's my 1st Graph assignment from BUAD 5112 (AA): Competing Through Business Analytics:
