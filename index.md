@@ -11,6 +11,10 @@ Here's my kids picture
 Here's my 1st Graph assignment from BUAD 5112 (AA): Competing Through Business Analytics:
 - [BasicGraphAssignment](/BasicGraph/index.md)
 
+Here's a link to my LinkedIn
+
+[MS Linked In](https://www.linkedin.com/in/mohammed-shehadeh-a2b50229/)
+
 
 Here's a link to a Repository 
 - [GitHub.com repository Sample](https://github.com/mashehadeh/1stWebsite)
