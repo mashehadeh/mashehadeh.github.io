@@ -26,4 +26,4 @@ Here's My favorite type of music
 
 Zoom 1st Presentation
 
-- [Zoom Presentation](/doc/zoom_1)
+- [Zoom Presentation](/docs/zoom_1.mp4)
