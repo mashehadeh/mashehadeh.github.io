@@ -23,3 +23,7 @@ Here's a link to a Repository
 Here's My favorite type of music
 
 [![My favorite type of music](https://img.youtube.com/vi/iA-3LXjm0h4/0.jpg)](//www.youtube.com/watch?v=iA-3LXjm0h4)
+
+Zoom 1st Presentation
+
+- [Zoom Presentation](/doc/zoom_1)
