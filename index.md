@@ -31,4 +31,4 @@ Zoom 1st Presentation
 
 M6: Different Approaches for the Knapsack Assignment 
 
-![Knapsack Problem Test](/Pic MS/Approaches.JPG)
+![My Kids Picture](/Pic MS/WebPicture.JPG)
