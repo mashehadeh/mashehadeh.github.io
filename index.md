@@ -6,7 +6,7 @@ description: Creating a personal website
 Here's my kids picture 
 
 ![My Kids Picture](/Pic MS/WebPicture.JPG)
-![Test](/Pic MS/WebPicture.JPG)
+
 
 
 
@@ -33,4 +33,4 @@ Zoom 1st Presentation
 
 M6: Different Approaches for the Knapsack Assignment 
 
-![M6](/Pic MS/M6.JPG)
+![Test](/Pic MS/WebPicture.JPG)
