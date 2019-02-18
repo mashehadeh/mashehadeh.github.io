@@ -33,4 +33,4 @@ Zoom 1st Presentation
 
 M6: Different Approaches for the Knapsack Assignment 
 
-![Test New](/Pic MS/Approaches New.JPG)
+![approaches new](https://user-images.githubusercontent.com/47090409/52979090-13b72900-33a2-11e9-8650-1bc372cabccb.jpg)
