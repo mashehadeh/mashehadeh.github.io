@@ -27,3 +27,8 @@ Here's My favorite type of music
 Zoom 1st Presentation
 
 - [Zoom Presentation](/docs/zoom_1.mp4)
+
+
+M6: Different Approaches for the Knapsack Assignment 
+
+![Knapsack](/M6 Assignment/Approaches.JPG)
