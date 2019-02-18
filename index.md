@@ -31,4 +31,4 @@ Zoom 1st Presentation
 
 M6: Different Approaches for the Knapsack Assignment 
 
-![My Kids Picture](/Pic MS/WebPicture.JPG)
+![My Kids Picture](/Pic MS/Approaches Plan.JPG)
