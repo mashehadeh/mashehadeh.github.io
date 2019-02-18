@@ -5,7 +5,7 @@ description: Creating a personal website
 
 Here's my kids picture 
 
-![My Kids Picture](/Pic MS/M6.JPG)
+![My Kids Picture](/Pic MS/WebPicture.JPG)
 
 
 
