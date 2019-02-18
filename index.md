@@ -33,4 +33,4 @@ Zoom 1st Presentation
 
 M6: Different Approaches for the Knapsack Assignment 
 
-![Test](/Pic MS/WebPicture.JPG)
+![Test](/Pic MS/M6.JPG)
